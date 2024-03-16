@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Repositorio de prueba
+Este proyecto es una prueba para crear un repositorio online y clonarlo a la pc local
